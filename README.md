@@ -10,6 +10,11 @@
 
 * How to run the test suite: coming soon
 
-* Deployment instructions: coming soon
+* Deployment instructions: 
+
+  1) open cmd
+  2) type "rails s"
+  3) open a web browser
+  4) navigate to "localhost:3000"
 
 * ...
