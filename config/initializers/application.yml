@@ -1,0 +1,6 @@
+# config/application.yml
+
+PUSHER_APP_ID: '682631'
+PUSHER_KEY: '19c1139b3622adbe6f10'
+PUSHER_SECRET: '5ba590e8532cd168e829'
+PUSHER_CLUSTER: 'us2'
